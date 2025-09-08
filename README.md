@@ -91,8 +91,8 @@ Frontend (poderia evoluir para um PWA ou usar libs modernas (React/Vue) se a ide
 
 ---
 
-# É um bom protótipo didático, simples, direto e funciona. Mas como projeto real, precisaria de refatoração, uso de coleções, biblioteca de JSON e banco de dados. 
-Se evoluir para algo maior, a recomendação é migrar para um framework como Spring Boot ou Quarkus e separar bem as camadas.
+### É um bom protótipo didático, simples, direto e funciona. Mas como projeto real, precisaria de refatoração, uso de coleções, biblioteca de JSON e banco de dados. 
+### Se evoluir para algo maior, a recomendação é migrar para um framework como Spring Boot ou Quarkus e separar bem as camadas.
 
 ---
 
