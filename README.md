@@ -27,7 +27,7 @@ As tarefas são persistidas em um arquivo CSV local.
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 ### Pré-requisitos:
 - **Java JDK 17+** instalado.
